@@ -1,5 +1,5 @@
 {
-  "name": "entriachallenge",
+  "name": "codeshchallenge",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "georgebezerra <george.contato@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@entriachallenge/eslint-config": "*",
+    "@codeshchallenge/eslint-config": "*",
     "@types/jest": "^26.0.15",
     "jest": "^26.6.1",
     "ts-jest": "^26.4.2",
